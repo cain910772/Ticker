@@ -1,0 +1,21 @@
+{
+"users":[
+    {
+        "userId":1,
+        "email":"Will@will.com",
+        "password":2226684
+    }
+],
+
+"usersCoins":[
+    {
+        "coinID":1,
+        "coinName":"Bitcoin",
+        "coinSymbol":"BTC"
+    }
+]
+
+
+
+
+}
